@@ -1,1 +1,1 @@
-https://EvgeKat.github.io/portfolio/
+https://EvgeKat.github.io/portfolio/index.html
