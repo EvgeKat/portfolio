@@ -1,2 +1,1 @@
-# evgekat-JSFEPRESCHOOL
-Private repository for @evgekat
+https://EvgeKat.github.io/portfolio/
